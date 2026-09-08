@@ -12,7 +12,7 @@ I'm an undergraduate interested in Business Analysis, Data Analytics, Informatio
 - UI/UX Design
 ## Projects
 doenets.lk HCI Redesign
-## Currently Learning
+## About Me
 - 🌱 I’m currently learning Advanced SQL, Data Analytics
 - 👯 I’m looking to collaborate on Business analysis, data analytics, Process improvement and information systems projects.
 - 💬 Ask me about Business Analysis, Data Analytics, Quality Assurance and Information Systems.
