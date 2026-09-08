@@ -18,4 +18,3 @@ doenets.lk HCI Redesign
 - 💬 Ask me about Business Analysis, Data Analytics, Quality Assurance and Information Systems.
 - 📫 How to reach me: Connect with me on LinkedIn www.linkedin.com/in/nithya-vithanage-498b88406 or email me Rasanjali495@gmail.com
 - ⚡ Fun fact: I love turning ideas into creative projects and learning something new every day.
--->
